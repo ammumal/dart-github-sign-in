@@ -11,5 +11,5 @@ dependencies:
     sdk: flutter
   http: ^0.13.4
   # flutter_webview_plugin: ^0.3.11
-  webview_flutter:  ^3.0.0
+  webview_flutter:  ^4.0.7
   url_launcher: ^6.0.17
